@@ -1,0 +1,57 @@
+
+    @font-face {
+        font-family: 'Bhoto Serif Devanagari';
+        src: url('../fonts/BhotoSerifDevanagari-VF.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    body {
+        font-family: 'Bhoto Serif Devanagari', serif;
+    }
+
+    p {
+        text-indent:1em; /* Indent first line of each paragraph */
+    }
+
+    div.copyright p {
+        text-indent:0em; /* No indent for copyright page paragraph */
+        font-size: 70%;
+    }
+
+    div.poem p {
+        text-indent:0em; /* No indent for poem paragraphs */
+    }
+
+    .poem {
+        margin-bottom: 1lh; 
+    }
+
+    ol.references {
+    list-style-type: devanagari;
+    }
+
+    /* For the beginning of the chapters */
+    .chapter-title {
+        margin-top:6em;
+        margin-bottom:2em
+        }
+    
+    .ct-top {
+        margin-top: 6em;
+        }
+    
+    .ct-bottom {
+        margin-bottom: 2em;
+        }
+
+    /* used in the drama (nataka) */
+    .zero_margin_child_p p {
+        margin: 0;
+        }
+
+    .inline_child_p p {
+      display:inline;
+        }
+
+     

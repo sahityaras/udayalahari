@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2026-10-10T11:25:31Z</meta>
+    <meta name="generator" content="Ebook-lib 0.19.0"/>
+    <dc:identifier id="id">20261010112531</dc:identifier>
+    <dc:title>उदयलहरी</dc:title>
+    <dc:language>ne</dc:language>
+    <dc:creator id="creator">ज्ञानदिल दास</dc:creator>
+    <dc:date>2026-10-10T11:25:31Z</dc:date>
+    <dc:publisher>Sahityaras</dc:publisher>
+    <meta name="source_publisher" content="Sahitya Akademi (Sant Jnandildas by Kitab Singh Rai)"></meta>
+    <meta name="source_edition" content=""></meta>
+    <meta name="source_year" content="2007 AD"></meta>
+    <meta name="source_isbn" content="81-260-1886-0"></meta>
+    <meta name="book_about" content="‘उदयलहरी’ जोस्मनी सन्त कवि ज्ञानदिल दासद्वारा वि.सं. १९३४ (सन् १८७७) तिर रचिएको नेपाली साहित्यको एक युगान्तकारी कृति हो। १०९ श्लोकमा संरचित यो काव्य लोकप्रिय लोकछन्द झ्याउरे लय (सवाई ढाँचा) मा लेखिएको छ। यसमा निर्गुण भक्ति-दर्शन, योग-साधना, सामाजिक विद्रोह र नैतिक चेतनाको सशक्त समन्वय पाइन्छ। काव्यको मूल भाव अज्ञानताको अन्धकार चिरेर भित्री आत्मज्ञान, विवेक र ईश्वरीय ज्योतिको ‘उदय’ गराउनु हो। जोस्मनी मतअनुसार ईश्वर कुनै मूर्ति, मन्दिर वा बाह्य कर्मकाण्डमा नभई आफ्नै हृदयभित्र ज्योतिस्वरूप (निर्गुण ब्रह्म) विद्यमान छन् भन्ने तथ्य यसमा प्रष्ट्याइएको छ।"></meta>
+    <meta name="book_genre" content="काव्य"></meta>
+    <meta name="book_slug" content="udayalahari"></meta>
+    <meta name="cover" content="cover-img"></meta>
+  </metadata>
+  <manifest>
+    <item href="styles/global.css" id="static_0" media-type="text/css"/>
+    <item href="images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="text/coverpage.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
+    <item href="fonts/BhotoSerifDevanagari-VF.ttf" id="static_1" media-type="application/font-sfnt"/>
+    <item href="text/titlepage.xhtml" id="chapter_1" media-type="application/xhtml+xml"/>
+    <item href="images/saras_logo.png" id="static_2" media-type="image/png"/>
+    <item href="text/copyrightpage.xhtml" id="chapter_2" media-type="application/xhtml+xml"/>
+    <item href="text/tocpage.xhtml" id="chapter_3" media-type="application/xhtml+xml"/>
+    <item href="text/udayalahari.xhtml" id="chapter_4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_4"/>
+  </spine>
+</package>
